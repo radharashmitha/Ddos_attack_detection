@@ -1,7 +1,6 @@
-# An Adaptive Machine Learning Framework for DDoS Attack Detection and Mitigation
+# An Adaptive Machine Learning Framework for DDoS Attack Detection 
 
-This project demonstrates the use of machine learning techniques to detect and mitigate Distributed Denial of Service (DDoS) attacks. By analyzing network traffic data, the system identifies malicious activities and implements mitigation strategies through routing table updates.
-
+This project demonstrates the use of machine learning techniques to detect Distributed Denial of Service (DDoS) attacks. By analyzing network traffic data, the system identifies malicious activities, providing a foundation for future mitigation strategies.
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
@@ -12,7 +11,7 @@ This project demonstrates the use of machine learning techniques to detect and m
 - [License](#license)
 
 ## Introduction
-DDoS attacks disrupt network services by overwhelming the target system with excessive traffic. This project leverages machine learning algorithms to analyze patterns in network traffic, detect malicious activities, and provide automated mitigation mechanisms. The system ensures real-time defense against evolving threats and contributes to a secure network environment.
+DDoS attacks disrupt network services by overwhelming the target system with excessive traffic. This project leverages machine learning algorithms to analyze patterns in network traffic, detect malicious activities, and lay the groundwork for automated mitigation mechanisms. The system ensures real-time detection against evolving threats, contributing to a secure network environment.
 
 ## Features
 - Preprocessing and analysis of network traffic data.
